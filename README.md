@@ -6,7 +6,7 @@ A classic Space Invaders game built with Java and Java Swing. Defend Earth from 
 - **Classic Gameplay**: Faithful recreation of the original Space Invaders experience
 - **Score System**: Track your high score as you play
 - **Multiple Waves**: Increasingly difficult enemy waves
-- **UFO BONUS Ship**: Shoot the UFO for bonus points!
+- **UFO Bonus Ship**: Shoot the randomly spawning UFO for bonus points!
 - **Smooth Controls**: Responsive keyboard controls
 - **Lives System**: Three lives to defend Earth
 
