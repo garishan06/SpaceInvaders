@@ -11,7 +11,7 @@ A classic Space Invaders game built with Java and Java Swing. Defend Earth from 
 - **Lives System**: Three lives to defend Earth
 
 ## 🚀 How to Run
-
+```bash
 # 1. Clone the repository
 git clone https://github.com/garishan06/SpaceInvaders.git
 cd SpaceInvaders
