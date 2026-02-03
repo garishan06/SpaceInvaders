@@ -1,8 +1,11 @@
 # 🚀 Space Invaders
 
-A classic Space Invaders game built with Java and Java Swing. Defend Earth from alien invaders in this retro-style arcade game!
+## 🎮 About
 
- 🎮 Features
+A complete recreation of the iconic Space Invaders game built with **Java Swing**. This project was developed in **Apache NetBeans** and includes full IDE configuration for immediate setup. Defend Earth from alien invaders with classic gameplay, progressive difficulty, and bonus UFO ships!
+
+![Game Screenshot](spaceinvadersgamescreen.png)
+## 🎮 Features
 - **Classic Gameplay**: Faithful recreation of the original Space Invaders experience
 - **Score System**: Track your high score as you play
 - **Multiple Waves**: Increasingly difficult enemy waves
@@ -10,14 +13,24 @@ A classic Space Invaders game built with Java and Java Swing. Defend Earth from 
 - **Smooth Controls**: Responsive keyboard controls
 - **Lives System**: Three lives to defend Earth
 
-## 🚀 How to Run
+## 🕹️ Controls
+| Key | Action |
+|-----|--------|
+| **A/D** | Move spaceship left/right |
+| **S** | Plant spaceship in place |
+| **Spacebar** | Fire laser |
+| **ESC** | Quit game and return to homescreen |
+
+## 🚀 How to Run in Terminal/Command Line
 ```bash
-# 1. Clone the repository
+# Clone the repository
 git clone https://github.com/garishan06/SpaceInvaders.git
+
+# Navigate to project directory
 cd SpaceInvaders
 
-# 2. Compile all Java files
+# Compile all Java files
 javac src/space/invaders/*.java
 
-# 3. Run the game
+# Run the game
 java -cp src space.invaders.frmGame
